@@ -3,9 +3,9 @@
 Detta är labb 2 inom OOP.
 
 ## Todo list
-- [ ]  Det ska finnas en basklass som är `Djur`
-    - [ ]  Klassen ska ha minst fem egenskaper som alla djur delar med varandra
-    - [ ]  Klassen ska också minst tre metoder som alla djuren delar med varandra
+- [x]  Det ska finnas en basklass som är `Djur`
+    - [x]  Klassen ska ha minst fem egenskaper som alla djur delar med varandra
+    - [x]  Klassen ska också minst tre metoder som alla djuren delar med varandra
 - [ ]  Du ska skapa minst tre olika djur som ärver från Djur-klassen
     - [ ]  Dessa djur ska implementera minst en ny egenskap vardera och minst en ny metod vardera
     - [ ]  Dessa djur ska också ha defaultvärden för egenskaperna, både de som sätts i klassen och i basklassen
