@@ -6,11 +6,11 @@ namespace OOP_Labb_2
 {
     internal class Animal
     {
-        public int Age { get; set; }
-        public string Name { get; set; }
-        public string Description { get; set; }
-        public string Sound { get; set; }  
-        public string Color { get; set; }
+        protected int Age = 0;
+        protected string Name = "Default Name";
+        protected string Description = "Default Description";
+        protected string Sound = "Default Sound";
+        protected string Color = "Default Color";
 
         public Animal(int age, string name, string description, string sound, string color)
         {
