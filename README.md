@@ -11,9 +11,9 @@ Detta är labb 2 inom OOP.
     - [x]  Dessa djur ska också ha defaultvärden för egenskaperna, både de som sätts i klassen och i basklassen
     - [x]  Alla djur måste ha en metod som heter `makeSound()` och som ska skriva ut djurets läte i consolen
     - [x]  Det ska finnas en constructor som vi kan användas för att skapa nya djur
-- [ ]  En av djuren du skapat ovan ska du sedan dela upp i två nya klasser som ärver från det specifika djuret.
-    - [ ]  Exempelvis kanske du har Hund och då kan vi skapa Bulldog och Chihuahua. Resultatet blir arv i två nivåer.
-    - [ ]  Dessa djurvarianter ska också implementera någon unik egenskap och någon unik metod eller i alla fall en överlagring som gör dem unika.
+- [x]  En av djuren du skapat ovan ska du sedan dela upp i två nya klasser som ärver från det specifika djuret.
+    - [x]  Exempelvis kanske du har Hund och då kan vi skapa Bulldog och Chihuahua. Resultatet blir arv i två nivåer.
+    - [x]  Dessa djurvarianter ska också implementera någon unik egenskap och någon unik metod eller i alla fall en överlagring som gör dem unika.
 - [ ]  I din main-metod ska du initiera ett flertal olika djur och se till att dem gör sina ljud så det syns i konsolen att djuren har låtit
 
 ### Extra utmaning
