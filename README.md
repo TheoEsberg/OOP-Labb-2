@@ -1,7 +1,7 @@
 # OOP-Labb-2
 Detta är labb 2 i kursen Objekt orienterad programmering på Campus Varberg.
 
-# Om uppgiften
+## Om uppgiften
 I denna uppgift kommer du öva på att använda arv inom objektorientering. Uppgiften handlar till stor del om att tänka ut en struktur för arv men också om att delvis implementera den i kod.
 
 ## Todo list
